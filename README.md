@@ -59,8 +59,16 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
 
+**criar ou clonar repositorio**
+
+**criar uma nova branch**
+
+**fazer e salvar alterações nos arquivos**
+
+**executar o comando commit**
+
+<footer>
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
